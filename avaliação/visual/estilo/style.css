@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+body{
+    color: red;
+}
+
+a{
+    color: red;
+}
+
+section {
+    background-color:red; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+button {
+    background-color:red; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+b
